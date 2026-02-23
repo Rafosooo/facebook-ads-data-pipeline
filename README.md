@@ -24,6 +24,10 @@ Facebook Ads API → Python ETL → Azure SQL → Power BI
 
 Marketing performance data is automatically centralized into a structured database to support Power BI dashboards without manual CSV exports.
 
+## Authentication
+
+Includes OAuth 2.0 refresh token flow for fully automated API authentication without manual intervention.
+
 ## Business Impact
 
 Reduced manual reporting time and ensured reliable daily campaign performance tracking.# facebook-ads-data-pipeline
